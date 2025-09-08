@@ -1,26 +1,52 @@
-<h1 align="center">Hi 👋, I'm Saurav</h1>
-<h3 align="center">A passionate data engineer</h3>
+# 👋 Hi, I'm Saurav Ganguli
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravganguli&label=Profile%20views&color=0e75b6&style=flat" alt="sauravganguli" /> </p>
+🚀 **Data Engineer | Cloud Enthusiast | AI/ML Explorer**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravganguli" alt="sauravganguli" /></a> </p>
+I’m a Data Engineer specializing in **Cloud Technologies (GCP/AWS)** with strong expertise in **Python, SQL, and Java**.  
+My passion lies in building scalable data pipelines, optimizing data workflows, and applying **data science & AI/ML techniques** to drive insights and innovation.  
 
-- 👯 I’m looking to collaborate on **Data Engineering**
+---
 
-- 💬 Ask me about **Python, Data, AI**
+## 🔧 Tech Stack
 
-- 📫 How to reach me **saurav.ganguli18@gmail.com**
+- **Languages:** Python, SQL, Java  
+- **Cloud:** Google Cloud (BigQuery, Pub/Sub, Dataflow, Composer, GKE, Cloud Storage, etc.)  
+- **Data Engineering:** Data modeling, orchestration, event streaming  
+- **Databases & Warehousing:** BigQuery, PostgreSQL, MySQL, Snowflake  
+- **Machine Learning & AI:** scikit-learn, TensorFlow, PyTorch (beginner), ML pipelines  
+- **Tools & Platforms:** GitHub Actions, Docker, Kubernetes, Terraform  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saurav-ganguli-0230a261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav-ganguli-0230a261" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 📌 Current Focus
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauravganguli&show_icons=true&locale=en&layout=compact" alt="sauravganguli" /></p>
+- Designing robust **ETL/ELT pipelines**  
+- Streaming data processing with Pub/Sub and Google Dataflow
+- Schema management & automation for BigQuery  
+- Exploring **AI/ML integrations** in data workflows  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravganguli&show_icons=true&locale=en" alt="sauravganguli" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravganguli&" alt="sauravganguli" /></p>
+## 📈 Professional Goals
+
+- Master modern **data engineering & streaming frameworks**  
+- Build end-to-end **AI-driven data platforms**  
+- Contribute to **open-source projects** and share knowledge with the community  
+
+---
+
+## 🌍 Beyond Work
+
+- 📖 Lifelong learner: exploring latest trends in **AI, ML, and Big Data**  
+- ✈️ Passionate about **traveling & exploring cultures**
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/saurav-ganguli-0230a261/)  
+- ✉️ [Email](mailto:saurav.ganguli18@gmail.com)  
+
+---
+
+⭐️ _Always open to collaborations, discussions, and exciting opportunities in data engineering and AI/ML._
